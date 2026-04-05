@@ -25,5 +25,5 @@ Skills Demonstrated
 - Web Development (Servlets, JSP)
 - Algorithmic Problem Solving
 
-## 📌 Notes
+Notes
 These projects were developed as part of academic coursework and team collaborations.
