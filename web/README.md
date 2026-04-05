@@ -1,1 +1,30 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/1Fk1k_OD)
+E-Commerce Web Application
+web application that simulates an online shopping platform with product browsing, cart management, and order processing.
+
+Features 
+- Browse products and categories  
+- Add/remove items from shopping cart  
+- Update item quantities in cart  
+- Checkout and order processing  
+- Persistent cart and order history  
+
+Technologies
+- Backend: Java Servlets, JDBC 
+- Database: MySQL  
+- Server: Apache Tomcat  
+
+Architecture
+- **Servlets** handle business logic and HTTP requests  
+- **DAO layer** manages database operations
+- **MySQL database** stores users, products, and orders  
+
+Key Concepts
+- Session management for user carts  
+- Database transactions for order processing  
+- MVC-like separation of logic and presentation  
+
+Purpose
+The goal of this project was to build a **real-world inspired e-commerce system**, focusing on backend development, database integration, and scalable architecture.
+
+## 👨‍💻 Notes
+This project was developed as part of academic coursework and team collaboration.
