@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="oop-hw-05-lukss20:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/oop_hw_05_lukss20_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="oop-hw-05-lukss20/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="oop-hw-05-lukss20" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
